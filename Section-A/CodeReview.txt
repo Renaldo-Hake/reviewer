@@ -1,0 +1,29 @@
+Correctness: 2/4
+Efficiency: 2/4
+Style: 4/4
+Documentation: 3/4
+
+Aspects of the submission that was good:
+This was a good submission overall. Your use of comments really assisted me reading and understanding
+your code. You made great use of indentation, this makes the code more readable. Your variables are very 
+well named and meaningful, the variables explains exactly what the data is. You limited the amount of code used to complete this task,
+this shows you have a great understanding of the task at hand.
+
+Improvements:
+You have 9 errors in your code, but in actual fact you will find that you only need to fix 3 errors and the rest will resolve.
+In line 5 you are creating a function yet you use const and make an arrow fuction. Typescritpt does not understand this code. 
+You need to remove the const and replace it with function, then remove all the unneccessary code to make it a normal function.
+The second error on line 19n needs some attention, remember that when you created the function with the parameters you did not 
+cast the 1st parameter to any, to fix this error you need to do this on line 19n and the error should resolve. The final error 
+is on line 51, this is a common error especiallly for someone coming from python. In Typescript you cannot use print, you need 
+to use console.log instead. 
+
+There is one more aspect that needs some attention, this is the way you write comments. Try to make you comments describe what Your
+code does and not say what the code is. For eg. do not comment saying this is a variable. This is bad commenting and does not help
+the person reading your code. You need to rather explain what you are trying to do with a certain piece of code. Also when it comes 
+to a block of code do not write a comment for each line or apect of the block or function. Rather explain in one commment what you are 
+intending to use this block of code for and what the purpose is.
+
+Overall Feedback:
+This was a great first submission and an exelent learning curve, you are really progressing well. I can see that you understand Typescript
+but remember practice makes perfect. Fix all the errors I mentioned and resubmit this task and I will be happy to have another look.

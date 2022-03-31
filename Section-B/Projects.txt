@@ -1,0 +1,8 @@
+Link to my best project so far:
+https://minesweeperclone.herokuapp.com/
+
+Link to the above project code in github:
+https://github.com/Renaldo-Hake/Minesweeper-Clone
+
+Link to my portfolio website:
+https://renaldo-hake.github.io/Renaldo_Hake_Resume/
